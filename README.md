@@ -1,16 +1,21 @@
-# f_lesson_2
+# Todo App
 
-A new Flutter project.
+Small Todo App flutter project
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Use the package manager [flutter](https://flutter.dev/docs/get-started/install) to install f_lesson.
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
+```
+
+## Screenshots
+
+![alt text](./screens/main_page.png "Main page")
